@@ -1,0 +1,8 @@
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\bin\Debug\netcoreapp3.1\OrderManagement.Domain.deps.json
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\bin\Debug\netcoreapp3.1\OrderManagement.Domain.dll
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\bin\Debug\netcoreapp3.1\OrderManagement.Domain.pdb
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\obj\Debug\netcoreapp3.1\OrderManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\obj\Debug\netcoreapp3.1\OrderManagement.Domain.AssemblyInfo.cs
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\obj\Debug\netcoreapp3.1\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\obj\Debug\netcoreapp3.1\OrderManagement.Domain.dll
+C:\Users\ahson622\source\repos\OrderManagement\OrderManagement.Domain\obj\Debug\netcoreapp3.1\OrderManagement.Domain.pdb
